@@ -1,0 +1,11 @@
+<?php
+include('utilidades/conectar.php');
+include('clases/consultas.php');
+include('clases/consultaaseguradoras.php');
+include('clases/consultaservicios.php');
+include('clases/consultatarifas.php');
+include('clases/consultatecnicos.php');
+include('clases/consultafiliales.php');
+include('clases/consultaciudades.php');
+include('clases/consultaauditoria.php');
+?>
